@@ -2,7 +2,7 @@
 - 👀 I’m interested in Verilog, Drones and Robotics
 - 🌱 I’m currently mastering VLSI
 - 💞️ I’m looking to collaborate with semiconductor industries
-- 📫 How to reach me :- lakshmiprasad.vadrevu@gmail.com  
+- 📫 Reach me through lakshmiprasad.vadrevu@gmail.com  
                          vlprasad.vadrevu@gmail.com
 
 <!---
