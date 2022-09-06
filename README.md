@@ -2,7 +2,8 @@
 - 👀 I’m interested in Verilog, Drones and Robotics
 - 🌱 I’m currently mastering VLSI
 - 💞️ I’m looking to collaborate with semiconductor industries
-- 📫 How to reach me :- lakshmiprasad.vadrevu@gmail.com
+- 📫 How to reach me :- lakshmiprasad.vadrevu@gmail.com  
+                         vlprasad.vadrevu@gmail.com
 
 <!---
 vadrevu-Lakshmiprasad/vadrevu-Lakshmiprasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
